@@ -1,0 +1,15 @@
+/* styles.css to be linked */
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+div {
+    color: white;
+    background-color: black;
+}
+
+p {
+    color: red;
+}
